@@ -1,1 +1,1 @@
-(run|launch) (command|script) (?P<Script>.*)
+(run|launch|security) (command|script|system) (?P<Script>.*)
